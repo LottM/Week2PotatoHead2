@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController { 
     
     // change visibility of arms by using the switch
     @IBOutlet weak var imageArms: UIImageView? ; internal var hiddenArms: Bool
