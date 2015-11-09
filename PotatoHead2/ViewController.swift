@@ -16,11 +16,13 @@ class ViewController: UIViewController {
         imageArms!.hidden = !self.imageArms!.hidden
     }
     
+    
     // change visibility of ears by using the switch
     @IBOutlet weak var imageEars: UIImageView!
     @IBAction func switchEars(sender: AnyObject) {
         imageEars!.hidden = !self.imageEars!.hidden
         }
+    
     
     // change visibility of eyebrows by using the switch
     @IBOutlet weak var imageEyebrows: UIImageView!
@@ -28,11 +30,13 @@ class ViewController: UIViewController {
         imageEyebrows!.hidden = !self.imageEyebrows!.hidden
     }
     
+    
     // change visibility of eyes by using the switch
     @IBOutlet weak var imageEyes: UIImageView!
     @IBAction func switchEyes(sender: AnyObject) {
         imageEyes!.hidden = !self.imageEyes!.hidden
     }
+    
     
     // change visibility of glasses by using the switch
     @IBOutlet weak var imageGlasses: UIImageView!
@@ -40,11 +44,13 @@ class ViewController: UIViewController {
         imageGlasses!.hidden = !self.imageGlasses!.hidden
     }
     
+    
     // change visibility of hat by using the switch
     @IBOutlet weak var imageHat: UIImageView!
     @IBAction func switchHat(sender: AnyObject) {
         imageHat!.hidden = !self.imageHat!.hidden
     }
+    
     
     // change visibility of mouth by using the switch
     @IBOutlet weak var imageMouth: UIImageView!
@@ -52,17 +58,20 @@ class ViewController: UIViewController {
         imageMouth!.hidden = !self.imageMouth!.hidden
     }
     
+    
     // change visibility of mustache by using the switch
     @IBOutlet weak var imageMustache: UIImageView!
     @IBAction func switchMustache(sender: AnyObject) {
         imageMustache!.hidden = !self.imageMustache!.hidden
     }
     
+    
     // change visibility of nose by using the switch
     @IBOutlet weak var imageNose: UIImageView!
     @IBAction func switchNose(sender: AnyObject) {
         imageNose!.hidden = !self.imageNose!.hidden
     }
+    
     
     // change visibility of shoes by using the switch
     @IBOutlet weak var imageShoes: UIImageView!
