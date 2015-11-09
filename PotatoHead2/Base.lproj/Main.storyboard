@@ -205,17 +205,16 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <connections>
-                        <outlet property="imageArms" destination="dwf-M5-kYO" id="Gh2-aI-brg"/>
-                        <outlet property="imageEars" destination="dwf-M5-kYO" id="TUB-rY-Gyo"/>
-                        <outlet property="imageEyebrows" destination="dwf-M5-kYO" id="7f9-cH-NhZ"/>
-                        <outlet property="imageEyes" destination="dwf-M5-kYO" id="083-KA-dtc"/>
-                        <outlet property="imageGlasses" destination="dwf-M5-kYO" id="7SI-fr-68o"/>
-                        <outlet property="imageHat" destination="dwf-M5-kYO" id="uKo-sC-mQi"/>
-                        <outlet property="imageMouth" destination="dwf-M5-kYO" id="hVs-tb-8cW"/>
-                        <outlet property="imageMustache" destination="dwf-M5-kYO" id="nfa-vZ-SMj"/>
-                        <outlet property="imageNose" destination="CgW-eh-7rc" id="dfH-Uq-YQa"/>
+                        <outlet property="imageArms" destination="ApO-Yp-aMf" id="EZi-em-9I7"/>
+                        <outlet property="imageEars" destination="FwP-6c-saS" id="iAB-IQ-bLc"/>
+                        <outlet property="imageEyebrows" destination="6V6-gl-luh" id="Hps-wf-iPv"/>
+                        <outlet property="imageEyes" destination="j88-Nu-HGr" id="xUa-1n-Ymw"/>
+                        <outlet property="imageGlasses" destination="i1O-vO-fe9" id="BYc-0X-Wnh"/>
+                        <outlet property="imageHat" destination="IqU-t8-1NC" id="gm1-Zc-6tf"/>
+                        <outlet property="imageMouth" destination="FiO-6i-OdM" id="guB-qb-tcf"/>
+                        <outlet property="imageMustache" destination="dz5-Kd-ltU" id="0dx-TD-elP"/>
+                        <outlet property="imageNose" destination="CgW-eh-7rc" id="Rj1-8d-aL4"/>
                         <outlet property="imageShoes" destination="dwf-M5-kYO" id="0UZ-wG-gxl"/>
-                        <outlet property="switchArms" destination="Mgj-Jl-Ugs" id="pPd-Cz-Tnk"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
