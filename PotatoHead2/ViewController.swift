@@ -10,10 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
     // change visibility of arms by using the switch
     @IBOutlet weak var imageArms: UIImageView!
-    
     @IBAction func switchArms(sender: UISwitch) {
         imageArms!.hidden = !self.imageArms!.hidden
     }
