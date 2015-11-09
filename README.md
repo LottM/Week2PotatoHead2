@@ -1,2 +1,2 @@
-# Week2PotatoHead2
-I tried to make a new potato head, because with the other one I couldn't make connections between the switch button and the swift code by using the control function
+# Week2PotatoHead2 <lottevandermolen@gmail.com>
+This is the third Potato Head I made so far; and this time there is finally a connection between the switch buttons and the hidden images.
